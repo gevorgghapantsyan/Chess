@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\ChessBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|d:\\projects\\c#\\chessboard\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|d:\\projects\\c#\\chessboard\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|d:\\projects\\c#\\chessboard\\figuretype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|solutionrelative:figuretype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|d:\\projects\\c#\\chessboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|d:\\projects\\c#\\chessboard\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1396A3C-FD95-403A-BAF8-D185BD55FBE6}|ChessBoard.csproj|solutionrelative:color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ChessBoard\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "D:\\Projects\\C#\\ChessBoard\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:04:43.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ChessBoard\\Color.cs",
+              "RelativeDocumentMoniker": "Color.cs",
+              "ToolTip": "D:\\Projects\\C#\\ChessBoard\\Color.cs",
+              "RelativeToolTip": "Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:10:55.736Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ChessBoard\\Figure.cs",
+              "RelativeDocumentMoniker": "Figure.cs",
+              "ToolTip": "D:\\Projects\\C#\\ChessBoard\\Figure.cs",
+              "RelativeToolTip": "Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:14:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FigureType.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ChessBoard\\FigureType.cs",
+              "RelativeDocumentMoniker": "FigureType.cs",
+              "ToolTip": "D:\\Projects\\C#\\ChessBoard\\FigureType.cs",
+              "RelativeToolTip": "FigureType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:05:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\ChessBoard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\ChessBoard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:59:01.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
