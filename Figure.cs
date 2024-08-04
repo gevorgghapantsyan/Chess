@@ -11,9 +11,9 @@ namespace ChessBoard
         public Color color { get; set; }
         public FigureType type { get; set; }
 
-        public Figure(FigureType type, Color guyn = 0)
+        public Figure(FigureType type, Color color = 0)
         {
-            this.color = guyn;
+            this.color = color;
             this.type = type;
         }
     }
